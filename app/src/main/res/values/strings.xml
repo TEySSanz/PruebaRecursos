@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba de Recursos</string>
+    <string name="rocas">Rocas</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="configuracion">Configuación</string>
+    <string name="salir">Salir</string>
+    <string name="datosAdicionales">Datos adicionales</string>
+</resources>
