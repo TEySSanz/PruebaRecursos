@@ -44,6 +44,7 @@
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="ejecutar_datos_adicionales_Class"
         android:text="@string/datosAdicionales" />
 </LinearLayout>
 

@@ -56,6 +56,7 @@
                 android:id="@+id/button8"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:onClick="ejecutar_datos_adicionales_Class"
                 android:text="@string/datosAdicionales" />
         </TableRow>
 
