@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this, datos_adicionales_Class.class);
         startActivity(i);
     }
+
+    public void salirApp (View view){
+        finish();
+    }
 }
